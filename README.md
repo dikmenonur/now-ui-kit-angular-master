@@ -30,13 +30,18 @@ We wanted to fully display the power of this kit, so the kit comes packed with e
 
 ## Terminal Commands
 
-1. Install NodeJs from [NodeJs Official Page](https://nodejs.org/en).
-2. Open Terminal
-3. Go to your file project
-4. Run in terminal: ```npm install -g @angular/cli```
-5. Then: ```npm install```
-6. And: ```npm start```
-7. Navigate to [localhost:4200](localhost:4200)
+### Git Command
+1. Run in Terminal 
+2. Git Clone: ```git clone https://github.com/dikmenonur/now-ui-kit-angular-master```
+
+### Run Command
+4. Install NodeJs from [NodeJs Official Page](https://nodejs.org/en).
+5. Open Terminal
+6. Go to your file project
+7. Run in terminal: ```npm install -g @angular/cli```
+8. Then: ```npm install```
+9. And: ```npm start```
+10. Navigate to [localhost:4200](localhost:4200)
 ### What's included
 
 Within the download you'll find the following directories and files:
