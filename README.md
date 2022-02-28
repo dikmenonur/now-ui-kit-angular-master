@@ -1,6 +1,7 @@
 # [Now UI Kit Angular](https://creativetimofficial.github.io/now-ui-kit-angular/index) [![version][version-badge]][CHANGELOG]
 
-#Version Update : Angular @13
+
+# Version Update : Angular @13
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/77/original/opt_nuk_angular_thumbnail.jpg? "Now UI Kit Angular")
 
@@ -28,7 +29,6 @@ We wanted to fully display the power of this kit, so the kit comes packed with e
 + [Landing Page](https://creativetimofficial.github.io/now-ui-kit-angular/examples/landing)
 + [Login Page](https://creativetimofficial.github.io/now-ui-kit-angular/examples/login)
 + [Profile Page](https://creativetimofficial.github.io/now-ui-kit-angular/examples/profile)
-+ [Now UI Kit PRO Angular](https://creativetimofficial.github.io/now-ui-kit-pro-angular/presentation) (from $79)
 
 
 ## Terminal Commands
