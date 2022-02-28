@@ -1,10 +1,7 @@
-# [Now UI Kit Angular](https://creativetimofficial.github.io/now-ui-kit-angular/index) [![version][version-badge]][CHANGELOG]
+# [Now UI Kit Angular]
 
 
 # Version Update : Angular @13
-
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/77/original/opt_nuk_angular_thumbnail.jpg? "Now UI Kit Angular")
-
 
 **[Now UI Kit Angular](https://creativetimofficial.github.io/now-ui-kit-angular/index)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 50 elements and 3 templates.
 
